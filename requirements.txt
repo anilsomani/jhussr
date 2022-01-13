@@ -28,7 +28,7 @@ numpy==1.18.4
 olefile==0.46
 pandas==1.0.3
 pdfminer.six==20181108
-Pillow==7.1.2
+Pillow==9.0.0
 plotly==4.7.1
 pycryptodome==3.9.7
 pyparsing==2.4.7
